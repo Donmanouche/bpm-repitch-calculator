@@ -84,6 +84,8 @@ semitones = 12 × log₂(target_bpm / source_bpm)
 
 ![BPM Repitch Calculator Screenshot](screenshot.png)
 
+*Simple and intuitive interface for calculating pitch adjustments between BPMs*
+
 ## 🤝 Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request.

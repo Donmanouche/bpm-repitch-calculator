@@ -4,10 +4,8 @@ A cross-platform application for musicians and producers to calculate the pitch 
 
 ## 🎯 Features
 
-- ✅ Simple Tkinter GUI interface
 - ✅ Accurate semitone calculation using standard formula
 - ✅ Cross-platform executables (Linux, macOS, Windows)
-- ✅ Input validation and error handling
 - ✅ Standalone executables (no Python required)
 
 ## 📥 Download

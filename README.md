@@ -4,7 +4,7 @@ A cross-platform application for musicians and producers to calculate the pitch 
 
 ## 🎯 Features
 
-- ✅ Accurate semitone calculation using standard formula
+- ✅ Accurate semitone calculation
 - ✅ Cross-platform executables (Linux, macOS, Windows)
 - ✅ Standalone executables (no Python required)
 

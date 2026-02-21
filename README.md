@@ -65,25 +65,6 @@ pyinstaller --onefile --windowed --name "BPM_Repitch_Calculator_mac" --target-ar
 pyinstaller --onefile --windowed --name "BPM_Repitch_Calculator_win" bpm_repitch_calculator.py
 ```
 
-## 📐 Formula
-
-The calculator uses the standard semitone formula:
-
-```
-semitones = 12 × log₂(target_bpm / source_bpm)
-```
-
-## 🎛️ Examples
-
-- 120 BPM → 240 BPM = **+12.00 semitones** (octave up)
-- 240 BPM → 120 BPM = **-12.00 semitones** (octave down)
-- 128 BPM → 130 BPM = **+0.28 semitones**
-- 100 BPM → 125 BPM = **+4.02 semitones**
-
-
-## 🤝 Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request.
 
 ## 📜 License
 

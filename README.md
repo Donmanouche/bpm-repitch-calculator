@@ -72,7 +72,7 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 ![BPM Repitch Calculator GUI](screenshot.png)
 
-*Clean and intuitive interface showing source BPM, target BPM, and semitone adjustment*
+
 
 ## 🎵 About
 

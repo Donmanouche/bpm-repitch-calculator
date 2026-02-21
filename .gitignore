@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env
+
+# PyInstaller
+build/
+*.spec
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+
+# Executables (we want to keep these for distribution)
+!dist/
+!*.exe
+!*.app

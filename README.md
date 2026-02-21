@@ -80,11 +80,6 @@ semitones = 12 × log₂(target_bpm / source_bpm)
 - 128 BPM → 130 BPM = **+0.28 semitones**
 - 100 BPM → 125 BPM = **+4.02 semitones**
 
-## 🖼️ Screenshots
-
-![BPM Repitch Calculator Screenshot](screenshot.png)
-
-*Simple and intuitive interface for calculating pitch adjustments between BPMs*
 
 ## 🤝 Contributing
 

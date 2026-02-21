@@ -89,6 +89,12 @@ Contributions are welcome! Please open an issue or submit a pull request.
 
 MIT License - see [LICENSE](LICENSE) file for details.
 
+## 🖼️ Screenshots
+
+![BPM Repitch Calculator GUI](screenshot.png)
+
+*Clean and intuitive interface showing source BPM, target BPM, and semitone adjustment*
+
 ## 🎵 About
 
 This tool is designed for musicians and producers who need to calculate pitch adjustments when time-stretching isn't available or desired. It's particularly useful for:
